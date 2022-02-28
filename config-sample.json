@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "memberful-api-key": "",
+    "memberful-subdomain": "",
+    "time-zone": "Etc/UTC",
+    "log-level": 30
+  },
+  "intercom": {
+    "access-token": ""
+  },
+  "wordpress": {
+    "application-password": ""
+  }
+}
