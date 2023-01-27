@@ -31,7 +31,7 @@
   "files": [],
   "homepage": "https://github.com/mrjackyliang/memberful-sync#readme",
   "engines": {
-    "node": "16"
+    "node": "18"
   },
   "dependencies": {
     "axios": "^0.25.0",
