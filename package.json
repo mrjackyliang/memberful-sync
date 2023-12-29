@@ -13,10 +13,16 @@
     "type": "git",
     "url": "git://github.com/mrjackyliang/memberful-sync.git"
   },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/mrjackyliang"
-  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/mrjackyliang"
+    },
+    {
+      "type": "custom",
+      "url": "https://liang.nyc/paypal"
+    }
+  ],
   "keywords": [
     "memberful",
     "intercom",
@@ -29,7 +35,7 @@
     "url": "https://github.com/mrjackyliang/memberful-sync/issues"
   },
   "files": [],
-  "homepage": "https://github.com/mrjackyliang/memberful-sync#readme",
+  "homepage": "https://github.com/mrjackyliang/memberful-sync",
   "engines": {
     "node": "18"
   },
