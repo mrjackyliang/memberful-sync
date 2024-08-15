@@ -64,7 +64,7 @@ The custom attributes are as follows:
 - `total_spend` (decimal number)
 - `unrestricted_access` (true or false)
 
-__NOTE:__ If custom attributes aren't set properly, errors will occur when attempting to update or create a new contact.
+__Note:__ If custom attributes aren't set properly, errors will occur when attempting to update or create a new contact.
 
 | __Key__                      | __Type__ | __Description__                     | __Required__ | __Accepted Values__                                                                                                                       |
 |------------------------------|----------|-------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|
