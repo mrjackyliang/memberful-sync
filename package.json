@@ -30,7 +30,7 @@
     "sync"
   ],
   "author": "Jacky Liang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mrjackyliang/memberful-sync/issues"
   },
